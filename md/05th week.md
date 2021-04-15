@@ -110,7 +110,7 @@ Car myCar = new Car();
 }
 ```
 ```java
-/* 생성자 중복 줄이기(전) *
+/* 생성자 중복 줄이기(전) */
 Car(String model) {
   this.model = model;
   this.color="빨강";
@@ -131,7 +131,7 @@ Car(String model, String color, int maxSpeed) {
 ```
 ⬇️
 ```java
-/* 생성자 중복 줄이기(후) *
+/* 생성자 중복 줄이기(후) */
 Car(String model) {
   this(model, "빨강", 250);
 }
