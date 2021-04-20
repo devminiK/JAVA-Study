@@ -59,8 +59,7 @@ classpath를 지정할 수 있는 두 가지 방법이 있다.
 컴퓨터 시스템 변수 설정을 통해 지정할 수 있다.
 JVM이 시작될 때 JVM의 클래스 로더는 이 환경 변수를 호출한다.
 <img src="../img/w7_java_home.png" width="580px" height="383px" alt="w7_java_home"></img><br/> 
-![w7_java_home](../img/w7_java_home.png)
-<img src="../img/w7_path.png" width="580px" height="383px" alt="w7_path"></img><br/> 
+![w7_path](../img/w7_path.png)
 ## 5. -classpath 옵션
 컴파일러가 컴파일 하기 위해서 필요로 하는 참조할 클래스 파일을 찾기 위해서 컴파일시 경로를 지정해주는 옵션.
    
