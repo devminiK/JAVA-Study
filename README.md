@@ -15,6 +15,6 @@
 * **10주차 과제**: [멀티쓰레드 프로그래밍](https://github.com/devminiK/JAVA-Study/blob/master/md/10th%20week.md)
 * **11주차 과제**: [Enum](https://github.com/devminiK/JAVA-Study/blob/master/md/11th%20week.md)
 * **12주차 과제**: [애노테이션](https://github.com/devminiK/JAVA-Study/blob/master/md/12th%20week.md)
-* **13주차 과제**: [I/O](https://github.com/devminiK/JAVA-Study/blob/master/md/07th%13week.md)
+* **13주차 과제**: [I/O](https://github.com/devminiK/JAVA-Study/blob/master/md/13th%20week.md)
 * **14주차 과제**: [제네릭](https://github.com/devminiK/JAVA-Study/blob/master/md/14th%20week.md)
 * **15주차 과제**: [람다식](https://github.com/devminiK/JAVA-Study/blob/master/md/15th%20week.md)
