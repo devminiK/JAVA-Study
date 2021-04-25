@@ -147,7 +147,7 @@ public class BufferReaderEx1 {
 - **제네릭타입<? super 하위타입>**       
 	: Lower Bounded Wildcards(하위 클래스 제한)
 	타입 파라미터를 대치하는 구체적인 타입으로 하위 타입이나 상위 타입이 올 수 있다.   
-![w13_generic](../img/w13_generic.png)
+![w14_generic](../img/w14_generic.png)
 
 위와 같이 클래스가 존재한다고 한다면   
 **Course<?>**   
