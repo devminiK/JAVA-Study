@@ -322,6 +322,6 @@ public class BufferReaderEx1 {
 	}
 }
 ```
-> [실행 결과] Output: HI I'm test.txt :) Nice to meet you.
+> [실행 결과] Output: HI I'm test.txt :) Nice to meet you.   
 > 해당 문서 경로에 txt파일이 생성된다.
 ![w13_textout](../img/w13_textout.png)
